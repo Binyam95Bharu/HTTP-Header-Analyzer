@@ -44,4 +44,3 @@
 * **Permissions-Policy:** የአሳሹን ባህሪያት (ለምሳሌ ካሜራ፣ ማይክሮፎን፣ ጂፒኤስ) የድረ-ገጽህን ይዘት እንዲጠቀም መፍቀድ ወይም መከልከል ያስችላል።
 * **Secure/HttpOnly Cookies:** `Secure` flag ኩኪዎች የሚላኩት በHTTPS ግንኙነት ብቻ መሆኑን ያረጋግጣል፤ `HttpOnly` flag ደግሞ client-side scripts (JavaScript) ኩኪዎችን እንዳይደርሱባቸው ይከለክላል፣ ይህም XSS ጥቃቶችን ይቀንሳል።
 
-ይህ ፕሮጀክት የድር ደህንነት መሰረታዊ ገጽታዎችን ለመረዳት የመጀመሪያ እርምጃ ነው።
